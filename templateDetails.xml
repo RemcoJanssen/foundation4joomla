@@ -6,7 +6,7 @@
     <authorEmail>remco@remcojanssen.nl</authorEmail>
     <authorUrl>{authorurl}</authorUrl>
     <copyright>Copyright (C) 2015 by Remco Janssen. All rights reserved.</copyright>
-    <license>Commercial</license>
+    <license>GPL V2</license>
     <version>1.0.1</version>
     <description>A website template for Joomla, based on Zurb's Foundation</description>
 
